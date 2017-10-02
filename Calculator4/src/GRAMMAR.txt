@@ -1,0 +1,22 @@
+F F1
+F F + F1
+
+F1 F2
+F1 F1 - F2
+
+F2 F3
+F2 F2 * F3
+
+F3 F4
+F3 cos F3
+
+F4 ( F )
+F4 F4 !
+F4 INT
+F4 FLOAT
+
+FLOAT . num
+FLOAT num .
+FLOAT num . num
+
+INT num
